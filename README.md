@@ -1,0 +1,1 @@
+Claramente le falta emprolijar, agregar funciones para eliminar repetición de código, manejo de errores y documentación, pero es hasta donde llegué con el tiempo.
