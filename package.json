@@ -1,7 +1,7 @@
 {
-    "name": "clase_28",
-    "version": "0.0.0",
-    "description": "Curso de Programación BackEnd - UNTREF",
+    "name": "proyecto3",
+    "version": "1.0.0",
+    "description": "Proyecto final - curso Backend Argentina Programa 4.0",
     "scripts": {
         "start": "node --watch --no-warnings ./src/server.js",
         "stop": "killall -9 node",
@@ -9,10 +9,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/serinformatico/PB-05-2023-UNTREF.git"
+        "url": "git+https://github.com/gomezrod/proyecto3.git"
     },
     "keywords": [],
-    "author": "Lic. Sergio Regalado Alessi",
+    "author": "Rodrigo Nicolás Gómez",
     "license": "MIT",
     "dependencies": {
         "dotenv": "^16.3.1",
